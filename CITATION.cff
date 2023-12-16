@@ -1,65 +1,63 @@
 <<<<<<< HEAD
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: Dificuldade de pessoas cegas em ônibus (Aklas)
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Villar Sette
+    given-names: Augusto Vinicios
+  - family-names: Araujo Biluca
+    given-names: Julio Cesar
+  - family-names: Campos Soares
+    given-names: Matheus Eduardo
+  - family-names: Pereira de Oliveira
+    given-names: Thiago
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: de Castro Belém
+    given-names: Felipe
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Vieira Carneiro
+    given-names: Rommel
 keywords:
-  - 
-  - 
-repository-code: 
+  - Deficientes Visuais
+  - Ônibus
+  - Aplicativo
+  - Auxiliar
+  - Liberdade
+repository-code: https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-t-20232-g3_-_dificuldadesdepessoascegasemonibus
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2022-07-14
+date-released: 2023-12-15
 =======
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: Dificuldade de pessoas cegas em ônibus (Aklas)
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Villar Sette
+    given-names: Augusto Vinicios
+  - family-names: Araujo Biluca
+    given-names: Julio Cesar
+  - family-names: Campos Soares
+    given-names: Matheus Eduardo
+  - family-names: Pereira de Oliveira
+    given-names: Thiago
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: de Castro Belém
+    given-names: Felipe
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Vieira Carneiro
+    given-names: Rommel
 keywords:
-  - 
-  - 
-repository-code: 
+  - Deficientes Visuais
+  - Ônibus
+  - Aplicativo
+  - Auxiliar
+  - Liberdade
+repository-code: https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-t-20232-g3_-_dificuldadesdepessoascegasemonibus
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2022-07-14
+date-released: 2023-12-15
 >>>>>>> 576e4073eb686b7caee5801aac8f95491eb4d605
